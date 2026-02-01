@@ -1,0 +1,9 @@
+{
+  "name": "VisionLink Production Architect",
+  "description": "Production-ready architectural blueprint for ESP32-linked smart glasses. Includes real-world Kotlin implementations for Wi-Fi Direct, BLE GATT, and TFLite GPU acceleration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
